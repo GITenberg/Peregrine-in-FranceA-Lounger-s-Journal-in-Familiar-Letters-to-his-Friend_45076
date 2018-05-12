@@ -1,0 +1,27 @@
+_repo: Peregrine-in-FranceA-Lounger-s-Journal-in-Familiar-Letters-to-his-Friend_45076
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45076-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bromet, William
+    alias: Bromet, Gulielmus
+    birthdate: 1783
+    deathdate: 1850
+    gutenberg_agent_id: '43073'
+    url: http://www.gutenberg.org/2009/agents/43073
+description: ''
+gutenberg_issued: '2014-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45076'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Description and travel'
+- !lcc 'DC'
+title: 'Peregrine in France: A Lounger''s Journal, in Familiar Letters to His Friend'
+url: http://www.gutenberg.org/ebooks/45076
